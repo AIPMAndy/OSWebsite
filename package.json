@@ -1,0 +1,22 @@
+{
+  "name": "oswebsite",
+  "version": "1.0.0",
+  "private": false,
+  "description": "An interactive, themeable OS-style website for creators, makers and teams.",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "test": "node scripts/build-single.mjs && node --test tests/*.test.mjs",
+    "build:single": "node scripts/build-single.mjs"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-site",
+    "web-desktop",
+    "mobile-simulator",
+    "os",
+    "theme",
+    "static-site"
+  ],
+  "license": "MIT"
+}
