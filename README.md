@@ -6,7 +6,7 @@
 
 **一个真正可交互的网站操作系统。不只是个人主页，也不只是换皮。**
 
-[English](./docs/README.en.md) · [快速部署](#-5-分钟启动) · [产品路线图](./docs/ROADMAP.md) · [设计规范](./docs/DESIGN.md)
+[在线体验](https://aipmandy.github.io/OSWebsite/) · [English](./docs/README.en.md) · [快速部署](#-5-分钟启动) · [产品路线图](./docs/ROADMAP.md) · [设计规范](./docs/DESIGN.md)
 
 ![MIT License](https://img.shields.io/badge/License-MIT-b7f5db) ![Vanilla JavaScript](https://img.shields.io/badge/Vanilla_JS-No_build_step-cedeff) ![Desktop + Mobile](https://img.shields.io/badge/Devices-5_modes-b6e6ff) ![Themes](https://img.shields.io/badge/Themes-5-efc6fb)
 

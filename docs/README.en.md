@@ -2,6 +2,8 @@
 
 An original, dependency-free interactive website OS for creators, developers, and teams.
 
+[Live demo](https://aipmandy.github.io/OSWebsite/)
+
 ## What works today
 
 - Five visual themes: Nebula, Alpine, Atelier, Solstice, Circuit.
