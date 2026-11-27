@@ -1,0 +1,48 @@
+# OSWebsite
+
+> 可交互的个人网站操作系统：多主题、5 种设备模式、零构建 Vanilla JS 个人主页
+
+- 作者：AI酋长Andy（AIPMAndy），官网 https://metaver.vip/
+- 开源仓库：https://github.com/AIPMAndy/OSWebsite
+- 在线地址：https://aipmandy.github.io/OSWebsite/
+- 许可：MIT
+- 语言：中文（zh-CN）
+- 最近更新：2026-11-24
+
+## 这是什么
+
+Your corner of the internet, reimagined.
+在线体验https://aipmandy.github.io/OSWebsite/ · English./docs/README.en.md · 快速部署#-5-分钟启动 · 产品路线图./docs/ROADMAP.md · 设计规范./docs/DESIGN.md
+
+## 主要页面
+
+- [OSWebsite — Your corner of the internet, reimagined.](https://aipmandy.github.io/OSWebsite/OSWebsite-demo.html)
+- [OSWebsite — Your corner of the internet, reimagined.](https://aipmandy.github.io/OSWebsite/)
+
+## 内容目录
+
+- 为什么做 OSWebsite？
+- 当前已实现（v1.0）
+- 5 分钟启动
+- 五种主题 × 五种设备
+- 自定义你的网站
+- 部署
+- 目录
+- 安全 / 隐私 / 产品边界
+- 灵感来源与版权
+
+## 关键事实
+
+- 名称：OSWebsite
+- 类型：中文开源项目
+- 许可：MIT
+- 语言：中文
+- 最近更新：2026-11-24
+- 仓库：https://github.com/AIPMAndy/OSWebsite
+
+## 相关链接
+
+- [作者官网](https://metaver.vip/)
+- [GitHub 主页](https://github.com/AIPMAndy/AIPMAndy)
+- [开源总目录](https://aipmandy.github.io/)
+- [机器可读摘要](https://aipmandy.github.io/OSWebsite/llms.txt)

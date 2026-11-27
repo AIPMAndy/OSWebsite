@@ -12,6 +12,29 @@
 
 </div>
 
+<!-- andy-geo:start -->
+## 一句话简介
+
+**可交互的个人网站操作系统：多主题、5 种设备模式、零构建 Vanilla JS 个人主页**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读/使用](https://aipmandy.github.io/OSWebsite/) · [GitHub 仓库](https://github.com/AIPMAndy/OSWebsite)
+- 联系：微信 `AIPMAndy`（备注「OSWebsite」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：MIT。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**可交互的个人网站操作系统：多主题、5 种设备模式、零构建 Vanilla JS 个人主页
+
+**包含什么？**主要模块：为什么做 OSWebsite？、当前已实现（v1.0）、5 分钟启动、五种主题 × 五种设备、自定义你的网站、部署。
+
+**要花钱吗？**按 MIT 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://aipmandy.github.io/OSWebsite/ 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
+
 ## 为什么做 OSWebsite？
 
 普通个人网站是“看”的。OSWebsite 让访客像用操作系统一样**探索你的世界**：打开应用、拖动窗口、浏览作品、写本地笔记、操作小看板，切换设备和风格。
